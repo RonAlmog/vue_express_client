@@ -10,13 +10,12 @@
 import Transactions from './Transactions.vue'
 import EditTransactions from './EditTransactions.vue'
 
-
 export default {
-    components: {
-        Transactions,
-        EditTransactions
+  components: {
+    Transactions,
+    EditTransactions
 
-    }
+  }
 }
 </script>
 
